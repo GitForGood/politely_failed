@@ -1,0 +1,166 @@
+{
+  "version": "1.0.0",
+  "categories": {
+    "network": {
+      "casual": [
+        "Oops! The internet gremlins are at it again. Mind trying that one more time?",
+        "Well, this is awkward. The network decided to take a coffee break.",
+        "Houston, we have a connection problem. But nothing we can't fix with a quick retry!",
+        "The tubes are clogged! (No, not those tubes. The internet tubes.)",
+        "Your request is stuck in traffic. Digital traffic, that is."
+      ],
+      "professional": [
+        "We're experiencing connectivity issues at the moment. Please try again shortly.",
+        "The requested resource is currently unavailable due to network conditions.",
+        "A temporary network interruption has occurred. Your patience is appreciated.",
+        "Network timeout occurred while processing your request.",
+        "Unable to establish connection with the remote server."
+      ],
+      "humorous": [
+        "The packets got lost on their way to the server. We suspect they stopped for snacks.",
+        "Error 404: Network not found. (It's hiding behind the couch.)",
+        "Your request went on an adventure and hasn't come back yet. Dragons might be involved.",
+        "The internet is currently held together by duct tape and prayers. Please stand by.",
+        "Connection refused faster than a bad Tinder date."
+      ]
+    },
+    "auth": {
+      "casual": [
+        "Hmm, we couldn't verify that's really you. Mind checking your credentials?",
+        "Access denied! But in a friendly way. Let's try logging in again?",
+        "Your session seems to have wandered off. Time for a fresh login!",
+        "That password isn't ringing any bells. Want to give it another shot?",
+        "Looks like your login expired while you were away. Welcome back though!"
+      ],
+      "professional": [
+        "Authentication required. Please verify your credentials and try again.",
+        "Your session has expired. Please log in to continue.",
+        "Access to this resource requires valid authentication credentials.",
+        "Invalid credentials provided. Please check your username and password.",
+        "Authorization token is missing or invalid."
+      ],
+      "humorous": [
+        "Nice try, but you're not on the list. The bouncer says no entry without proper ID!",
+        "Your password is like my motivation on Monday morning: nowhere to be found.",
+        "The authentication wizard has spoken: 'You shall not pass!' (without logging in first)",
+        "Access denied with extreme prejudice. Just kidding, please just log in again.",
+        "Your session expired faster than milk left out in the sun."
+      ]
+    },
+    "database": {
+      "casual": [
+        "Our database is taking a quick breather. Give it a moment?",
+        "The data elves are reorganizing the shelves. Back in a jiffy!",
+        "Database said 'brb'. Should be back any second now.",
+        "The filing cabinet is stuck. We're wiggling the drawer as we speak.",
+        "Data's playing hide and seek right now. We're counting to ten and trying again."
+      ],
+      "professional": [
+        "A database error has occurred. Our team has been notified.",
+        "Unable to complete the operation due to a temporary database issue.",
+        "The data service is currently unavailable. Please try again later.",
+        "Database connection pool exhausted. Retry recommended.",
+        "Query execution failed due to resource constraints."
+      ],
+      "humorous": [
+        "The database went to find itself. It's on a spiritual journey and will return enlightened.",
+        "Error: Database is currently practicing social distancing from your query.",
+        "Our database is like a teenager's room: we know the data is in there somewhere...",
+        "The database has commitment issues. It can't commit your transaction right now.",
+        "404: Database not found. Have you checked behind the server rack?"
+      ]
+    },
+    "validation": {
+      "casual": [
+        "Something doesn't look quite right with that input. Mind double-checking?",
+        "Oops! That data format isn't quite what we expected.",
+        "Close, but not quite! Let's try that again with the correct format.",
+        "That input made our validator do a double-take. Can you review it?",
+        "Almost perfect! Just need to tweak the format a tiny bit."
+      ],
+      "professional": [
+        "The submitted data does not meet validation requirements.",
+        "Invalid input detected. Please review the request format and try again.",
+        "Request validation failed. Please ensure all required fields are properly formatted.",
+        "One or more fields contain invalid data. Please correct and resubmit.",
+        "Input validation error: please check your data and try again."
+      ],
+      "humorous": [
+        "Your input was creative, but our validator is a bit of a perfectionist.",
+        "The data you sent is like pineapple on pizza: controversial and not accepted here.",
+        "Nice try, but our validation rules are stricter than airport security!",
+        "That input format is so last season. We've updated our requirements!",
+        "Your data failed the vibe check. Try again with better vibes (and valid formatting)."
+      ]
+    },
+    "rate_limit": {
+      "casual": [
+        "Whoa there, speedy! Let's slow down just a bit.",
+        "You're on fire today! But maybe take a quick breather?",
+        "Too much enthusiasm! Give us a moment to catch up.",
+        "Pump the brakes a little! We love your energy though.",
+        "Easy does it! Rome wasn't built in a day, and neither are API requests."
+      ],
+      "professional": [
+        "Rate limit exceeded. Please reduce request frequency.",
+        "Too many requests. Please wait before retrying.",
+        "Request quota exceeded. Service will resume shortly.",
+        "API rate limit has been reached. Please try again later.",
+        "Maximum request threshold exceeded. Please wait 60 seconds."
+      ],
+      "humorous": [
+        "Easy there, tiger! Even The Flash takes breaks between runs.",
+        "You're clicking faster than a caffeinated developer on deadline day!",
+        "Slow down! This isn't a speed-running competition... or is it?",
+        "Whoa, Neo! Even in the Matrix they had rate limits.",
+        "Your enthusiasm has been noted and promptly rate-limited. Try again in a moment!"
+      ]
+    },
+    "server_error": {
+      "casual": [
+        "Something went sideways on our end. We're on it!",
+        "Well, that wasn't supposed to happen. Our bad!",
+        "The server hiccupped. Give us a sec to get it some water.",
+        "Yikes! Something broke on our side. Time to grab the duct tape!",
+        "Our server just had a moment. It's feeling better now, please retry."
+      ],
+      "professional": [
+        "An internal server error has occurred. The issue has been logged.",
+        "We're experiencing technical difficulties. Please try again later.",
+        "A server error prevented the operation from completing successfully.",
+        "Internal server error. Our engineering team has been notified.",
+        "The server encountered an unexpected condition. Please retry your request."
+      ],
+      "humorous": [
+        "The server just threw a tantrum. We're giving it a timeout.",
+        "Error 500: The server has existential questions and needs a moment.",
+        "Our server is having a bad day. Maybe it needs a firmware hug?",
+        "The hamsters powering our servers need a snack break. Back soon!",
+        "Server.exe has stopped working. Have you tried turning it off and on again?"
+      ]
+    },
+    "not_implemented": {
+      "casual": [
+        "We haven't built that feature yet, but it's on our list!",
+        "Coming soon to a server near you! Just not... right now.",
+        "That's a great idea! We're still working on making it happen.",
+        "This feature is currently in the 'brilliant ideas' phase of development.",
+        "Patience, young padawan. This feature is still in training."
+      ],
+      "professional": [
+        "This functionality is not yet implemented.",
+        "The requested feature is currently under development.",
+        "This operation is not available at this time.",
+        "Feature not yet available. Please check back in a future release.",
+        "This endpoint is planned for a future version."
+      ],
+      "humorous": [
+        "That feature is still in the 'we'll get to it eventually' pile.",
+        "Our developers are still arguing about how to implement this. Check back later!",
+        "This feature is like my gym membership: planned but not yet implemented.",
+        "Error 501: Feature is currently having an identity crisis.",
+        "That button? Oh, it's decorative. Very decorative. (Coming soon, we promise!)"
+      ]
+    }
+  }
+}
